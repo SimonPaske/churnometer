@@ -23,8 +23,7 @@
 1. Open the jupyter_notebooks directory in the jupyter webpage that has opened and click on the notebook you want to open.
 
 1. Click the button Not Trusted and choose Trust.
-
-Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell.
+2. Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell.
 
 Your workspace is now ready to use. When you want to return to this project, you can find it in your CodeAnywhere <a href="https://app.codeanywhere.com/" target="_blank" rel="noreferrer">Dashboard</a>. You should only create 1 workspace per project.
 
